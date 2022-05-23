@@ -1,0 +1,16 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "chat",
+  "main": "chatback.js",
+  "scripts": {
+    "test": "node chatback.js"
+  },
+  "author": "robbypratl",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
